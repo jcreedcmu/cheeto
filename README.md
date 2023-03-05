@@ -21,10 +21,14 @@ Contents
 
 - `src/node-computation.ts`: sort of a port of sage-computation to typescript
 - `src/make_usda.ts`: generate an ascii USD file suitable for import into blender
-- `cheeto.blend`: a blender file with some manually added materials and a light source
 
 - `src/sage-computation2.py`
 - `src/vutil.ts`
+
+- `dist/cheeto.blend`: a blender file with some manually added materials and a light source
+- `dist/cheeto.usda`: ascii USD file
+- `dist/cheeto.html`: html papercraft template suitable for printing
+- `dist/cheeto.pdf`: pdf papercraft template suitable for printing
 
 Running
 =======
