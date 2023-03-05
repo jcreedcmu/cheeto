@@ -1,11 +1,16 @@
 Cheeto
 ======
 
-Some attempts to do photogrammetry to a picture of "The Love of Two Oranges",
-a sculpture by Clark Winter, located on the campus of Carnegie Mellon University
-outside of Wean Hall for many years.
+Some attempts to do photogrammetry to a picture of "The Love of Two
+Oranges" I [found in an article about
+it](https://www.cmu.edu/piper/news/archives/2021/june/the-love-of-two-oranges.html),
+a sculpture by Clark Winter, located on the campus of Carnegie Mellon
+University outside of Wean Hall for many years.
 
-https://www.cmu.edu/piper/news/archives/2021/june/the-love-of-two-oranges.html
+![papercraft model](assets/love-of-two-oranges.jpg)
+
+![blender rendering](cheeto.png)
+
 
 Contents
 ========
